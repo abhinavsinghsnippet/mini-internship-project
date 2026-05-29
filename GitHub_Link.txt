@@ -1,0 +1,13 @@
+GitHub Repository: https://github.com/yourusername/ai-resume-analyzer
+
+(Replace "yourusername" with your actual GitHub username after pushing the code)
+
+Steps to push to GitHub:
+1. Create a new repository on GitHub named "ai-resume-analyzer"
+2. Run the following commands:
+   git init
+   git add .
+   git commit -m "Initial commit - AI Resume Analyzer"
+   git branch -M main
+   git remote add origin https://github.com/yourusername/ai-resume-analyzer.git
+   git push -u origin main
